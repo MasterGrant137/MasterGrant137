@@ -1,4 +1,4 @@
-<div style='text-align: center'>
+<div align='center'>
 <h3 style='color: red'> 😓 My Passions ❤️‍🔥 <h3>
 <h4> Click Anywhere to Connect! 🔗 <h4>
   <ul style='list-style: none'>
