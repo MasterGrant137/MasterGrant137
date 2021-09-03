@@ -10,7 +10,5 @@
       <a href='https://github.com/MasterGrant137?tab=repositories'>👨🏽‍💻 Programming 👨🏽‍💻</a>
       <br>
       <br>
-  <h4>Stats</h4>
-![Top Level](https://github-readme-stats.vercel.app/api?username=mastergrant137&count_private=true&show_icons=true&theme=merko&show_icons=true&count_private=false)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantaoxu&langs_count=8&theme=merko)
+      <a href='https://github-readme-stats.vercel.app/api?username=MasterGrant137&show_icons=true'>My Stats</a>
 </div>
