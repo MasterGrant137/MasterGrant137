@@ -4,7 +4,11 @@
 <div align='center'>
   <h3> 😓My Passions❤️‍🔥 <h3>
   <hr>
-  <h4> 🔗Click Below to Connect!🔗 <h4>
+  <img src='https://media.giphy.com/media/41GcxPlfVrgli/giphy.gif' width='25px'>
+  <a href='https://campsite.bio/137'>Connect!</a>
+  <img src='https://media.giphy.com/media/41GcxPlfVrgli/giphy.gif' width='25px'>
+  <br>
+  <br>
   <a href='https://genius.com/1_3_7'>📝Poetry📝</a>
   <br>
   <br>
