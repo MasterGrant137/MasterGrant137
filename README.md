@@ -11,5 +11,6 @@
       <br>
       <br>
   <h4>Stats</h4>
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastergrant137&count_private=true&show_icons=true&theme=merko&show_icons=true&count_private=true)
+![Top Level](https://github-readme-stats.vercel.app/api?username=mastergrant137&count_private=true&show_icons=true&theme=merko&show_icons=true&count_private=false)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantaoxu&langs_count=8&theme=merko)
 </div>
