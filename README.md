@@ -15,7 +15,7 @@
   <br>
   <div>
     <img src='https://github-readme-stats.vercel.app/api?username=mastergrant137&theme=radical&show_icons=true&count_private=true&hide=issues,contribs'></img>
-    <img src='https://readme-jokes.vercel.app/api'>
+    <img src='https://readme-jokes.vercel.app/api?bgColor=%23141421&borderColor=%23e4e2e2&qColor=%23a8fdf6&aColor=%23f7d746'>
   </div>
   <div>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mastergrant137&theme=radical&langs_count=10'></img>
