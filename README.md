@@ -2,7 +2,8 @@
   <img src='https://komarev.com/ghpvc/?username=mastergrant137&color=blueviolet' alt='profile view counter' title='profile view counter'>
 </div>
 <div align='center'>
-  <h3> 😓 My Passions ❤️‍🔥 <h3>
+  <h3> 😓My Passions❤️‍🔥 <h3>
+  <hr>
   <h4> 🔗Click Below to Connect!🔗 <h4>
   <a href='https://genius.com/1_3_7'>📝Poetry📝</a>
   <br>
@@ -11,8 +12,8 @@
   <br>
   <br>
   <a href='https://github.com/MasterGrant137?tab=repositories'>👨🏽‍💻Programming👨🏽‍💻</a>
-  <br>
-  <br>
+  <h4>📖Linguistics🗣</h4>
+  <h4>🇺🇸The winds change,🇲🇽pero mi voluntad🇩🇪bleibt Konstant.</h4>
     <div>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mastergrant137&theme=radical&langs_count=10'></img>
   </div>
