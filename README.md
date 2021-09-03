@@ -11,5 +11,5 @@
       <br>
       <br>
   <h4>Stats</h4>
-    [![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterGrant137)](https://github.com/MasterGrant137/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mastergrant137&repo=github-readme-stats)](https://github.com/mastergrant137/github-readme-stats)
 </div>
