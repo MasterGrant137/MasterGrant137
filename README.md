@@ -19,7 +19,7 @@
   <h3>🗣Linguistics🗣</h3>
   <h4>🇺🇸The winds change,🇲🇽pero mi voluntad🇩🇪bleibt Konstant.</h4>
     <div>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mastergrant137&theme=radical&langs_count=8&layout=compact'></img>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mastergrant137&theme=radical&langs_count=6&layout=compact'></img>
   </div>
   <div>
     <img src='https://github-readme-stats.vercel.app/api?username=mastergrant137&theme=radical&show_icons=true&count_private=true&hide=issues,contribs'></img>
