@@ -12,7 +12,7 @@
   <a href='https://genius.com/1_3_7'>📝Poetry📝</a>
   <br>
   <br>
-  <a href='https://open.spotify.com/artist/1vK6H7t1vrSFkgCE3pXvAP?si=mgQXvotGRVKj2CNCLmiFDQ&nd=1'>🎧Music🎧</a>
+  <a href='https://campsite.bio/137'>🎧Music🎧</a>
   <br>
   <br>
   <a href='https://github.com/MasterGrant137?tab=repositories'>👨🏽‍💻Programming👨🏽‍💻</a>
