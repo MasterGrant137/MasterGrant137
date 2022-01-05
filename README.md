@@ -24,11 +24,11 @@
   <img height='32' width='32' alt='CSS' title='CSS' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' />
   <br>
   <br>
-  <div>
-    <img src='https://github-readme-stats.vercel.app/api?username=mastergrant137&theme=radical&show_icons=true&count_private=true&hide=contribs'></img>
-    <br>
-    <br>
-    <img src='https://readme-jokes.vercel.app/api?bgColor=%23141421&borderColor=%23e4e2e2&qColor=%23a8fdf6&aColor=%23f7d746'>
-  </div>
+  <img src='https://github-readme-stats.vercel.app/api?username=mastergrant137&theme=radical&show_icons=true&count_private=true&hide=contribs'></img>
+  <br>
+  <br>
+  <img src='https://readme-jokes.vercel.app/api?bgColor=%23141421&borderColor=%23e4e2e2&qColor=%23a8fdf6&aColor=%23f7d746'>
+  <br>
+  <br>
   <i>🇺🇸 The winds change,🇲🇽 pero mi voluntad 🇩🇪 <i>bleibt Konstant.</i>
 </div>
