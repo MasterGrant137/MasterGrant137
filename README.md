@@ -28,7 +28,5 @@
   <br>
   <br>
   <img src='https://readme-jokes.vercel.app/api?bgColor=%23141421&borderColor=%23e4e2e2&qColor=%23a8fdf6&aColor=%23f7d746'>
-  <br>
-  <br>
-  <i>🇺🇸 The winds change,🇲🇽 pero mi voluntad 🇩🇪 bleibt Konstant.</i>
+  <h4><i>🇺🇸 The winds change,🇲🇽 pero mi voluntad 🇩🇪 bleibt Konstant.</i><h4>
 </div>
