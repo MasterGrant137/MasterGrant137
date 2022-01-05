@@ -2,7 +2,7 @@
   <img src='https://komarev.com/ghpvc/?username=mastergrant137&color=blueviolet' alt='profile view counter' title='profile view counter'>
 </div>
 <div align='center'>
-  <h1>🛡My Passions⚔️<h3>
+  <h1>🛡My Passions⚔️<h1>
   📝 <a href='https://genius.com/1_3_7'>Poetry</a> 
   🎧 <a href='https://campsite.bio/137'>Discography</a>
   👨🏽‍💻 <a href='https://alejandrocarrizosagrant.me/'>Portfolio</a>
