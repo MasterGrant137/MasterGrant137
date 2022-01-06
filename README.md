@@ -14,6 +14,7 @@
   <img height='32' width='32' alt='SQLAlchemy' title='SQLAlchemy' src='https://avatars.githubusercontent.com/u/6043126?s=200&v=4' />
   <img height='32' width='32' alt='Flask' title='Flask' src='https://p.kindpng.com/picc/s/188-1882559_python-flask-hd-png-download.png' />
   <img height='32' width='32' alt='Scrapy' title='Scrapy' src='https://github.com/scrapy/scrapy/blob/master/artwork/scrapy-logo.jpg?raw=true' />
+  <img height='32' width='32' alt='JavaScript' title='JavaScript' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />
   <img height='32' width='32' alt='React' title='React' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' />
   <img height='32' width='32' alt='Redux' title='Redux' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png' />
   <img height='32' width='32' alt='Express' title='Express' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png' />
