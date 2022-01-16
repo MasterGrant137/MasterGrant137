@@ -12,7 +12,7 @@
   <img height='32' width='32' alt='Python' title='Python' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' />
   <img height='32' width='32' alt='Jinja' title='Jinja' src='https://raw.githubusercontent.com/pallets/jinja/11065b55a0056905a8973efec12a15dc658ef46f/artwork/jinjalogo.svg' />
   <img height='32' width='32' alt='SQLAlchemy' title='SQLAlchemy' src='https://avatars.githubusercontent.com/u/6043126?s=200&v=4' />
-  <img height='32' width='32' alt='Flask' title='Flask' src='https://p.kindpng.com/picc/s/188-1882559_python-flask-hd-png-download.png' />
+  <img height='32' width='32' alt='Flask' title='Flask' src='https://miro.medium.com/max/438/1*DGk2fpDud4D7goJxTqZ1pQ.png' />
   <img height='32' width='32' alt='Scrapy' title='Scrapy' src='https://github.com/scrapy/scrapy/blob/master/artwork/scrapy-logo.jpg?raw=true' />
   <img height='32' width='32' alt='JavaScript' title='JavaScript' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />
   <img height='32' width='32' alt='React' title='React' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' />
