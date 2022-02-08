@@ -3,10 +3,10 @@
 </div>
 <div align='center'>
   <h1>🛡My Passions⚔️<h1>
-  📝 <a rel='noopener noreferrer' target='_blank' href='https://genius.com/1_3_7'>Poetry</a> 
-  🎧 <a rel='noopener noreferrer' target='_blank' href='https://campsite.bio/137'>Discography</a>
-  👨🏽‍💻 <a rel='noopener noreferrer' target='_blank' href='https://alejandrocarrizosagrant.me/'>Portfolio</a>
-  🗣 <a rel='noopener noreferrer' target='_blank' href='https://www.duolingo.com/profile/MasterGrant'>Linguistics</a>
+  📝 <a href='https://genius.com/1_3_7'>Poetry</a> 
+  🎧 <a href='https://campsite.bio/137'>Discography</a>
+  👨🏽‍💻 <a href='https://alejandrocarrizosagrant.me/'>Portfolio</a>
+  🗣 <a href='https://www.duolingo.com/profile/MasterGrant'>Linguistics</a>
   <br>
   <br>
   <img height='32' width='32' alt='Python' title='Python' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' />
